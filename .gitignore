@@ -1,0 +1,23 @@
+# Compiled source #
+###################
+*.class
+
+# IDEA project file #
+#####################
+.idea
+*.iml
+
+# Maven generated files #
+#########################
+target
+
+# Eclipse project file #
+########################
+.project
+.settings
+.classpath
+.metadata
+
+# Logs #
+######################
+*.log
