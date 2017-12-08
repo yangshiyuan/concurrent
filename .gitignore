@@ -1,6 +1,7 @@
 # Compiled source #
 ###################
 *.class
+out
 
 # IDEA project file #
 #####################
